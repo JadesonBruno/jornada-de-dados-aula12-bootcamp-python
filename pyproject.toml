@@ -1,7 +1,7 @@
 [project]
-name = "aula-11"
+name = "aula-12"
 version = "0.1.0"
-description = "Aula 11 do bootcamp de python da jornada de dados."
+description = "Aula 12 do bootcamp de python da jornada de dados."
 authors = [
     {name = "JadesonBruno",email = "jadesonbruno.a@outlook.com"}
 ]
